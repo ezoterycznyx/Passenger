@@ -1,0 +1,12 @@
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.deps.json
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.dll
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Infrastructure.pdb
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Core.dll
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/bin/Debug/netstandard2.0/Passenger.Core.pdb
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csprojAssemblyReference.cache
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.AssemblyInfoInputs.cache
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.AssemblyInfo.cs
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.csproj.CopyComplete
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.dll
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Infrastructure/obj/Debug/netstandard2.0/Passenger.Infrastructure.pdb

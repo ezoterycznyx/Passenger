@@ -1,0 +1,9 @@
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/bin/Debug/netstandard2.0/Passenger.Core.deps.json
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/bin/Debug/netstandard2.0/Passenger.Core.dll
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/bin/Debug/netstandard2.0/Passenger.Core.pdb
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.csprojAssemblyReference.cache
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.csproj.CoreCompileInputs.cache
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.AssemblyInfoInputs.cache
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.AssemblyInfo.cs
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.dll
+/home/tomasz/Pulpit/c3/Passenger/Src/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.pdb
